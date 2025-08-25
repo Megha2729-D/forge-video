@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/forge-video/static/css/main.7ca9d291.css",
-    "main.js": "/forge-video/static/js/main.220f9194.js",
-    "static/js/453.7fdcfe83.chunk.js": "/forge-video/static/js/453.7fdcfe83.chunk.js",
+    "main.css": "/forge-video/static/css/main.a08ab500.css",
+    "main.js": "/forge-video/static/js/main.159fb5ea.js",
     "static/media/other-video.mp4": "/forge-video/static/media/other-video.a20cb512f66c0945081b.mp4",
     "static/media/social-media.mp4": "/forge-video/static/media/social-media.83c35f98870472e1cffc.mp4",
     "static/media/real-estate.mp4": "/forge-video/static/media/real-estate.713c61a798137f80cabd.mp4",
@@ -11,12 +10,11 @@
     "static/media/bootstrap-icons.woff2?": "/forge-video/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/section-bg.jpg": "/forge-video/static/media/section-bg.b72e9f8f7f8831f8fa84.jpg",
     "index.html": "/forge-video/index.html",
-    "main.7ca9d291.css.map": "/forge-video/static/css/main.7ca9d291.css.map",
-    "main.220f9194.js.map": "/forge-video/static/js/main.220f9194.js.map",
-    "453.7fdcfe83.chunk.js.map": "/forge-video/static/js/453.7fdcfe83.chunk.js.map"
+    "main.a08ab500.css.map": "/forge-video/static/css/main.a08ab500.css.map",
+    "main.159fb5ea.js.map": "/forge-video/static/js/main.159fb5ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ca9d291.css",
-    "static/js/main.220f9194.js"
+    "static/css/main.a08ab500.css",
+    "static/js/main.159fb5ea.js"
   ]
 }
