@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/forge-video/static/css/main.0acb3399.css",
-    "main.js": "/forge-video/static/js/main.7d18305d.js",
+    "main.css": "/forge-video/static/css/main.ead94040.css",
+    "main.js": "/forge-video/static/js/main.1e90eee4.js",
     "static/media/bootstrap-icons.woff?": "/forge-video/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/forge-video/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/section-bg.jpg": "/forge-video/static/media/section-bg.b72e9f8f7f8831f8fa84.jpg",
     "index.html": "/forge-video/index.html",
-    "main.0acb3399.css.map": "/forge-video/static/css/main.0acb3399.css.map",
-    "main.7d18305d.js.map": "/forge-video/static/js/main.7d18305d.js.map"
+    "main.ead94040.css.map": "/forge-video/static/css/main.ead94040.css.map",
+    "main.1e90eee4.js.map": "/forge-video/static/js/main.1e90eee4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0acb3399.css",
-    "static/js/main.7d18305d.js"
+    "static/css/main.ead94040.css",
+    "static/js/main.1e90eee4.js"
   ]
 }
