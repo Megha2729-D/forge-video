@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/forge-video/static/css/main.86b93dfd.css",
+    "main.css": "/forge-video/static/css/main.17943458.css",
     "main.js": "/forge-video/static/js/main.34ab382c.js",
     "static/media/bootstrap-icons.woff?": "/forge-video/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/forge-video/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/section-bg.jpg": "/forge-video/static/media/section-bg.b72e9f8f7f8831f8fa84.jpg",
     "index.html": "/forge-video/index.html",
-    "main.86b93dfd.css.map": "/forge-video/static/css/main.86b93dfd.css.map",
+    "main.17943458.css.map": "/forge-video/static/css/main.17943458.css.map",
     "main.34ab382c.js.map": "/forge-video/static/js/main.34ab382c.js.map"
   },
   "entrypoints": [
-    "static/css/main.86b93dfd.css",
+    "static/css/main.17943458.css",
     "static/js/main.34ab382c.js"
   ]
 }
